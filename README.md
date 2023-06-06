@@ -41,5 +41,6 @@ The Airport API has the following functional requirements:
 
 ## Resources
 
-The resource files for this assessment have been extracted from [https://ourairports.com/data/](https://ourairports.com/data/).
+The resource files for this assessment have been extracted from
+  [https://ourairports.com/data/](https://ourairports.com/data/).
 
